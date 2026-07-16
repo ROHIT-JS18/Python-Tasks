@@ -2,11 +2,11 @@
 # ----------------------------------------------
 # This program stores student names and marks in a dictionary,
 # asks the user for a student's name, and displays their marks.
-# If the name is not found, it shows an appropriate message.
+# If the name is not found, it shows an appropriate message
 
 # Step 1: Create a dictionary of student marks
 student_marks = {
-    "Amit": 85,
+    "Amit": 83,
     "Priya": 92,
     "Rahul": 76,
     "Sneha": 88,
