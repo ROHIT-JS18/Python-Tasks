@@ -2,12 +2,6 @@
 Tkinter Calculator Application
 -------------------------------
 A GUI calculator built with Python's Tkinter library.
-
-This version does NOT use eval(). All arithmetic is performed with
-custom functions (add, subtract, multiply, divide), and the
-calculator keeps track of the first number, the chosen operator,
-and the second number itself, then calls the matching function
-to compute the result.
 """
 
 import tkinter as tk
